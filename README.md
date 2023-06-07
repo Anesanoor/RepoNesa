@@ -1,0 +1,2 @@
+# RepoNesa
+Buat belajar PowerBI
